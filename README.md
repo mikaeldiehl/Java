@@ -1,4 +1,5 @@
 Example 1:
+
 Entre com os dados do aluguel
 Modelo do carro: Civic
 Retirada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
@@ -15,6 +16,7 @@ Pagamento básico = 5 * 10 = 50
 Imposto = 50 * 20% = 50 * 0.2 = 10
 
 Example 2:
+
 Entre com os dados do aluguel
 Modelo do carro: Civic
 Retirada (dd/MM/yyyy hh:mm): 25/06/2018 10:30
